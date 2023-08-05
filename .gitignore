@@ -23,6 +23,8 @@ hs_err_pid*
 replay_pid*
 
 # IDE
+*.iml
+.idea/
+target/
 /idea
-*.xml
 .idea/.name
