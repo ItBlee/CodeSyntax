@@ -25,29 +25,29 @@ Java Networking, TCP/IP, Java Multithreading, Java Secure Socket Extension, GSON
 
 ## Screenshots
 
-Format and Compile with input
+Format and Compile with input<br />
 ![Alt text](assets/screenshots/1.PNG?raw=true)
 
-Intelligent Code Editor
+Intelligent Code Editor<br />
 ![Alt text](assets/screenshots/3.PNG?raw=true)
 
-Autocomplete
+Autocomplete<br />
 ![Alt text](assets/screenshots/4.PNG?raw=true)
 
-Spell check
+Spell check<br />
 ![Alt text](assets/screenshots/5.PNG?raw=true)
 
-Convert image to text
+Convert image to text<br />
 ![Alt text](assets/screenshots/9.PNG?raw=true)
 
-Supported languages
+Supported languages<br />
 ![Alt text](assets/screenshots/2.PNG?raw=true)
 
-Session Management
+Session Management<br />
 ![Alt text](assets/screenshots/6.PNG?raw=true)
 
-Session List
+Session List<br />
 ![Alt text](assets/screenshots/7.PNG?raw=true)
 
-Session Tracking
+Session Tracking<br />
 ![Alt text](assets/screenshots/8.PNG?raw=true)
