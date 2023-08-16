@@ -70,3 +70,4 @@ Optional
 this.data
 this.bar
 Optional.empty
+scanner.nextInt
